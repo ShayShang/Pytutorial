@@ -1,2 +1,2 @@
-# Pytutorial
-this is just an example  repository
+# PytuTorial
+This is just an example  repository.
